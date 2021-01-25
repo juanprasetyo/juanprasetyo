@@ -1,4 +1,11 @@
-### Hi there 👋
+<a href="https://github.com/juanprasetyo/"><img src="https://github-readme-stats.vercel.app/api?username=juanprasetyo&show_icons=true&count_private=true" align="right" /></a>
+# 👋 I'm Juan Prasetyo
+
+<p>I'm just a boy who likes Web Programming.</p>
+<p>I usually create a website using the CodeIgniter Framework, JQuery and Bootstrap.</p>
+
+---
+<a href="https://github.com/juanprasetyo/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanprasetyo&hide=asp&layout=compac" alt="top languages - yeah, including HTML" align="right" /></a>
 
 <!--
 **juanprasetyo/juanprasetyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
